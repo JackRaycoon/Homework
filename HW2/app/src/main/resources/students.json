@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Alexey Smirnov",
+    "books": [
+      {"title": "War and Peace", "pages": 1300, "year": 1869},
+      {"title": "Crime and Punishment", "pages": 700, "year": 1866},
+      {"title": "Harry Potter", "pages": 400, "year": 1997},
+      {"title": "1984", "pages": 300, "year": 1949},
+      {"title": "Heart of a Dog", "pages": 150, "year": 1925},
+      {"title": "Kolobok (modern)", "pages": 10, "year": 2020}
+    ]
+  },
+  {
+    "name": "Maria Petrova",
+    "books": [
+      {"title": "Master and Margarita", "pages": 500, "year": 1967},
+      {"title": "The Idiot", "pages": 650, "year": 1869},
+      {"title": "Harry Potter 2", "pages": 450, "year": 1998},
+      {"title": "Kolobok (modern)", "pages": 10, "year": 2020},
+      {"title": "Dune", "pages": 800, "year": 1965},
+      {"title": "Cyberpunk 2020", "pages": 250, "year": 2022}
+    ]
+  },
+  {
+    "name": "Ivan Kozlov",
+    "books": [
+      {"title": "Anna Karenina", "pages": 900, "year": 1877},
+      {"title": "The Brothers Karamazov", "pages": 850, "year": 1880},
+      {"title": "The Art of Programming", "pages": 1200, "year": 1968},
+      {"title": "Clean Code", "pages": 450, "year": 2008},
+      {"title": "Learning Java", "pages": 700, "year": 2021},
+      {"title": "Kolobok (modern)", "pages": 10, "year": 2020}
+    ]
+  }
+]
